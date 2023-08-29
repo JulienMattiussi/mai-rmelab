@@ -4,6 +4,10 @@
     <img alt="Marmelab logo" src="./assets/logo-green.png" />
     <TitleMessage msg="En mai, on fait ce qui nous plait !" />
     <CountDown deadline="2022-05-11T15:30:00.000Z" />
+    <div
+      style="position: fixed; bottom: 20px; right: 20px"
+      id="greenframe_embedable_score_page"
+    ></div>
   </div>
 </template>
 
